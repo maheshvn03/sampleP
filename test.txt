@@ -1,0 +1,1 @@
+Set-Content test.txt "Hello, this is Mahesh's sample GitHub project."
